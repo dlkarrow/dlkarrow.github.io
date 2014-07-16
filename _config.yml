@@ -1,0 +1,6 @@
+production: true
+
+name: Third Stone Partners
+markdown: redcarpet
+pygments: true
+exclude: ["vendor"]
