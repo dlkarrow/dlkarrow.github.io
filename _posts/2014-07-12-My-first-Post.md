@@ -1,6 +1,6 @@
 ---
 layout: post
-tite: My First Post/HFT
+title: My First Post/HFT
 ---
 <p>This is my first ever blog post.  I feel behind the times! </p>
 
@@ -21,7 +21,7 @@ Frequency Trading Environments).  On the other hand, certain HFT strategies seem
 
 <p>I'm concerned with the prospect of additional regulation.  For one thing, industry experts seem to disagree over whether HFT is a net
 positive or negative to the stability of the financial markets.  Additionally, even if there was some consensus, "HFT" means a lot of
-different things to different people, and their not all bad.  What's really in question is the legitimacy of certain trading strategies
+different things to different people, and they're not all bad.  What's really in question is the legitimacy of certain trading strategies
 that are used by HFT firms, but the distinction has to be made between ordinary fast and frequent trading, and those potentially more
 nefarious strategies.   </p>
 
