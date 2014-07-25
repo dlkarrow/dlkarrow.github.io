@@ -34,6 +34,13 @@ display: table;
 width: 100%;
 
 }
+
+.jumbotron {
+background-image: url("/citypic.png")
+}
+
+
+
 .navbar-brand {
 padding-top: 0px;
 padding-left: 85px;
