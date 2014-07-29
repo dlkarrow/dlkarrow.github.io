@@ -10,10 +10,6 @@ body {
 
     }
 
-#container1 {
-
-    margin: auto auto;
-    width: 965px;
 
 }
 
@@ -63,4 +59,9 @@ padding-bottom:25px;
 #navimage {
 height: 50px;
 width: 300px;
+}
+
+.col-centered{
+float: none;
+margin: auto auto;
 }
