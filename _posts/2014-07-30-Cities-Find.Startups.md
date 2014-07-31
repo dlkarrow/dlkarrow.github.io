@@ -35,7 +35,7 @@ Almost 2/3rds of venture capital investments are funded out of those cities. <em
 
 <p>Third, founders start their companies in regions where they perceive a competitive advantage favoring their industry.
 The greater Boston area, for example, is home to seven of the top ten most active biotech and life science venture capital
-firms <em>FierceBiotech.com</em>.  Perhaps not coincidentally, over 30% of National Institute of Health research grants are awarded
+firms. <em>FierceBiotech.com</em>.  Perhaps not coincidentally, over 30% of National Institute of Health research grants are awarded
 in Massachusetts, New York, or Pennsylvania <em>NIH RePORT Research Portfolio Online Reporting Tools</em>.  Because of the
 concentration of research institutes and universities, the Northeast might be seen by some biotech founders and investors
 as an ideal region in which to launch or invest in companies.  </p>
