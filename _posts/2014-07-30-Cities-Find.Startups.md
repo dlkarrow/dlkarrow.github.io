@@ -49,7 +49,7 @@ ideal.  The same is true for the second point; universities, populations, and re
 overnight. </p>
 
 <p>What cities can do, and really what they should do, is to identify industries that are either unique to their area, or
-in which they have a competitive advantageous over other cities and regions, and leverage those to attract talented
+in which they have a competitive advantage over other cities and regions, and leverage those to attract talented
 founders and investment dollars.  A city that has large numbers of companies working on alternative energy technologies,
 for example, should be focused on incubators, seed programs, mentorships, and partnerships with start-ups in alternative
 energy technologies.  Chicago, for example, is an established global financial center that is home to insurance companies,
