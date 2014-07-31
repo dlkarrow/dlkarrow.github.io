@@ -23,7 +23,7 @@ attract and nurture small companies, and retain big ones? </p>
 
 <p>First, startups "go where the money is," which is why San Francisco/San Jose/Sunnyvale, CA continue to see an outsized
 portion of total early stage deals (more than 30% of all US venture capital deals) and invest an outsized amount of money
-in them (more that 40% of all committed capital.) <em>CityLab ranking, "Top 20 Locations for Venture Capital" </em>.   Silicon
+in them (more that 40% of all committed capital.) <em>(CityLab ranking, "Top 20 Locations for Venture Capital" )</em>.   Silicon
 Valley still serves as the Global Capitol of startups and VC, and reflects the truism in business that success breeds
 success. </p>
 
@@ -31,12 +31,12 @@ success. </p>
 why San Francisco, San Jose, Boston, New York, and Los Angeles- large cities with multiple universities, educated workforces,
 and large populations- are the 5 biggest venture capital investment markets in US.  These cities and their surrounding areas
 are also among the wealthiest in the country, which probably contributes to accessibility of angel and seed money.
-Almost 2/3rds of venture capital investments are funded out of those cities. <em>Id.</em></p>
+Almost 2/3rds of venture capital investments are funded out of those cities. <em>(Id.)</em></p>
 
 <p>Third, founders start their companies in regions where they perceive a competitive advantage favoring their industry.
 The greater Boston area, for example, is home to seven of the top ten most active biotech and life science venture capital
-firms. <em>FierceBiotech.com</em>.  Perhaps not coincidentally, over 30% of National Institute of Health research grants are awarded
-in Massachusetts, New York, or Pennsylvania <em>NIH RePORT Research Portfolio Online Reporting Tools</em>.  Because of the
+firms. <em>(FierceBiotech.com)</em>.  Perhaps not coincidentally, over 30% of National Institute of Health research grants are awarded
+in Massachusetts, New York, or Pennsylvania <em>(NIH RePORT Research Portfolio Online Reporting Tools)</em>.  Because of the
 concentration of research institutes and universities, the Northeast might be seen by some biotech founders and investors
 as an ideal region in which to launch or invest in companies.  </p>
 
