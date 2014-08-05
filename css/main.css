@@ -10,8 +10,12 @@ body {
 
     }
 
-h2 {
+h1 {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Calibri Light, Calibri, sans-serif;
 }
 
 p {
@@ -60,5 +64,21 @@ width: 300px;
 .col-centered{
 float: none;
 margin: auto auto;
+}
+
+a.class1:link {
+    color: #333;
+}
+
+a.class1:visited {
+    color: #333;
+}
+
+a.class1:hover {
+    color: #333;
+}
+
+a.class1:active {
+    color: #333;
 }
 
