@@ -7,6 +7,7 @@ body {
 
   padding-top: 70px;
    font-family: Arial, sans-serif;
+   background: rgb(248,248,248);
 
     }
 
@@ -24,7 +25,7 @@ p {
 
 
 .navbar {
-background: #FFFFFF;
+background: rgb(232,232,232);
 margin: 0;
 display: table;
 width: 100%;
