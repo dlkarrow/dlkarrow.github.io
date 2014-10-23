@@ -20,12 +20,19 @@ h2 {
     font-family: 'Vollkorn', serif;
 }
 
+
 h3 {
     font-family: 'Vollkorn', serif;
     margin:6px;
     font-size: 40px;
     color: rgb(40,40,40);
 
+}
+
+@media screen and (max-width: 568px) {
+    h3 {
+        font-size: 30px;
+}
 }
 
 
@@ -54,6 +61,13 @@ background-image: url("/citypic.png")
 padding-top: 0px;
 padding-left: 225px;
 
+}
+
+@media screen and (max-width: 568px) {
+.navbar-brand {
+
+padding-left: 40px;
+}
 }
 
 #bs-example-navbar-collapse-1 {
