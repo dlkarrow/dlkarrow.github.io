@@ -5,28 +5,33 @@ html {
 body {
 
 
-  padding-top: 70px;
-   font-family: 'Vollkorn', serif;
+  padding-bottom: 70px;
+   font-family: 'Lato';
    font-size: 16px;
    background: rgb(248,248,248);
+
 
     }
 
 h1 {
-    font-family: 'Vollkorn', serif;
+    font-family: 'Lato';
 }
 
 h2 {
-    font-family: 'Vollkorn', serif;
+    font-family: 'Lato';
 }
 
 
 h3 {
-    font-family: 'Vollkorn', serif;
+    font-family: 'Lato';
     margin:6px;
     font-size: 40px;
     color: rgb(40,40,40);
 
+}
+
+p {
+    font-family: 'Lato';
 }
 
 @media screen and (max-width: 568px) {
@@ -37,9 +42,7 @@ h3 {
 
 
 
-p {
-    font-family: 'Vollkorn', serif;
-}
+
 
 
 .navbar {
@@ -50,8 +53,11 @@ width: 100%;
 
 }
 
+
 .jumbotron {
-background-image: url("/citypic.png")
+background: transparent;
+height: 200px;
+
 }
 
 
@@ -91,7 +97,17 @@ width: 300px;
 .col-centered{
 float: none;
 margin: auto auto;
+background: rgba(248, 248, 248, 0.5);
 }
+
+.col-md-4 {
+background: rgba(248, 248, 248, 0.5);
+}
+
+.col-md-5 {
+background: rgba(248, 248, 248, 0.5);
+}
+
 
 a.class1:link {
     color: #333;
