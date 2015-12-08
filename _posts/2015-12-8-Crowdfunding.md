@@ -82,8 +82,8 @@ on the crowdfunding exemption would be required to disclose how they arrived at 
   But, the ongoing reporting requirements set forth in Securities Act Section 4A(b)(4) require only an annual report, and say
 
   nothing about quarterly reports or reports on other material events. In the worst cases, that means that investors may hear
-   from company management only once per year, and potential material events could transpire during the year of which th
-   e investors are simply unaware. Regardless of management's motives, information that may have been relevant to the value
+   from company management only once per year, and material events could transpire during the year of which the
+   investors are simply unaware<sup>5</sup>. Regardless of management's motives, information that may have been relevant to the value
    of the investment would never reach the investors.  </p>
 
 
@@ -129,7 +129,7 @@ are seldom audited, and even if they were, many are either pre-revenue or still 
 <p>My point is not that this will cause financial ruin to the public. Since the SEC capped the amount of money than an
 individual making less than $100,000 per year can invest into these offerings at either $2,000 or 5% of their income or
 net worth (whichever is smaller), it's doubtful that these investments will be ruinous to anyone.  And, I'm not even sure
- how frequently the crowdfunding exemption will be used<sup>5</sup>.  But, that's somewhat beside the point. Investing in
+ how frequently the crowdfunding exemption will be used<sup>6</sup>.  But, that's somewhat beside the point. Investing in
   any type of market carries risks to investors. And the SEC's job is to enforce rules that will protect investors.  Here,
    in the SEC's 300+ page rules, they've protected investors primarily by limiting the amount of money that can be put to
     work this way. The rest of the rules probably help somewhat, too, but they're an incomplete solution to the question of
@@ -153,4 +153,7 @@ we're in what is most likely a valuation bubble for private companies.   </P>
 
 <p><sup>4</sup>I strongly suspect that very few people read these documents carefully.</P>
 
-<p><sup>5</sup>It's ultimately going to be easier to raise money the "old fashioned" way, through except offerings only to accredited investors.  </P>
+<p><sup>5</sup>Investors may still be protected by various other statues, since failure to disclose material facts could potentially
+constitute fraud, and could violate State securities laws depending on the circumstance.</P>
+
+<p><sup>6</sup>It's ultimately going to be easier to raise money the "old fashioned" way, through except offerings only to accredited investors.  </P>
