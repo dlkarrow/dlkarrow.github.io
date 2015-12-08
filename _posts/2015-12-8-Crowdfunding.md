@@ -151,6 +151,6 @@ we're in what is most likely a valuation bubble for private companies.   </P>
 
 <p><sup>3</sup>http://www.wsj.com/articles/sec-set-to-approve-final-rules-on-crowdfunding-1445987303"</P>
 
-<p><sup>4</sup>But, they will probably not read those documents, because the only people who do read them are people who get paid to read them.</P>
+<p><sup>4</sup>I strongly suspect that very few people read these documents carefully.</P>
 
 <p><sup>5</sup>It's ultimately going to be easier to raise money the "old fashioned" way, through except offerings only to accredited investors.  </P>
