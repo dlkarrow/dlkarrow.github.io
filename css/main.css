@@ -77,7 +77,14 @@ padding-left: 225px;
 
 padding-left: 40px;
 }
+
+.navbar-header {
+float: right;
 }
+
+}
+
+
 
 
 #bs-example-navbar-collapse-1 {
