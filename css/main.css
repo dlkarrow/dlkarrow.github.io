@@ -60,21 +60,16 @@ width: 100%;
 .jumbotron {
 background: transparent;
 height: 200px;
-
 }
-
-
 
 .navbar-brand {
 
 padding-top: 0px;
 padding-left: 225px;
-
 }
 
 @media screen and (max-width: 568px) {
 .navbar-brand {
-
 padding-left: 40px;
 }
 
