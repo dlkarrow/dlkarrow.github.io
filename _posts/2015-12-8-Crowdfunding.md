@@ -156,4 +156,4 @@ we're in what is most likely a valuation bubble for private companies.   </P>
 <p><sup>5</sup>Investors may still be protected by various other statues, since failure to disclose material facts could potentially
 constitute fraud, and could violate State securities laws depending on the circumstance.</P>
 
-<p><sup>6</sup>It's ultimately going to be easier to raise money the "old fashioned" way, through except offerings only to accredited investors.  </P>
+<p><sup>6</sup>It's ultimately going to be easier to raise money the "old fashioned" way, through exempt offerings only to accredited investors.  </P>
