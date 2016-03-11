@@ -106,7 +106,7 @@ buy side analysts thought it wasn't a horrible company at some point, and that 2
  and in no way ensures that a particular public company is a good investment. But, it probably does mean they'll have at
  least a smaller chance of failing than companies which haven't navigated those hurdles. (Frankly, if it doesn't mean that
   then the system probably isn't functioning properly).  Of course, every now and then a "Pets.Com" sneaks its way past
-  all those white-shoe sentries, lists it's stock to great fanfare, and flops under the weight of an ill-thought out business
+  all those white-shoe sentries, lists its stock to great fanfare, and flops under the weight of an ill-thought out business
   model.  And, sometimes companies do stupid things like engage in massive, fraudulent accounting schemes that elude everyone
   from Wall Street to Main Street(e.g., Enron).  But, these are the exception rather than the rule. Companies may decrease in
    value, but retail investors who lose money on them are probably in pretty good and educated company.  </p>
