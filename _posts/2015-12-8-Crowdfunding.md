@@ -3,7 +3,7 @@ layout: post
 title: Crowdfunding, Private Markets, and What the New Rules are Missing
 ---
 <p>A little over a month ago, the SEC approved their new crowdfunding rules<sup>1</sup>, which come several years after
- the Jumpstart Our Business Act first provided "an exemption from the registration requirements of Securities Act Section
+ the Jumpstart Our Business Startups Act first provided "an exemption from the registration requirements of Securities Act Section
   5 for certain crowdfunding transactions."  The goal with this was to give ordinary, non-super wealthy people, access to
   private investments.  And, as goals go, that sounds like a nice one. The idea that people can generally do what they want
    with their money is appealing. And of course, private markets get a lot of buzz these days, with companies like Uber and
