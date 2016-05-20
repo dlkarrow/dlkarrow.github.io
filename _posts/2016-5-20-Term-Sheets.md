@@ -7,7 +7,7 @@ foundations, and institutions to buy a stake in high growth industries at relati
 risks posed by these investments are also unique; not only do investors have a greater risk of losing their
  entire investment than they might if they were investing in more mature companies, but the private marketplace
   and illiquid nature of these investments creates a series of other risks.  These risks can't necessarily be
-  eliminated, but investors focused on these 4 key elements of their next deal will have betters odds of avoiding
+  eliminated, but investors focused on these 4 key elements of their next deal will have better odds of avoiding
   some of the more common risks of private investing.  </p>
 
 <p>(<i><strong>An aside</strong>:  It's easy to invest in a startup and fall prey to the idea that the
